@@ -45,11 +45,6 @@ Advanced Instagram analytics and insights tool that helps users:
 - Cloud Services
 - Docker
 
-## 📈 GitHub Stats
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushrpal&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushrpal&layout=compact&theme=radical)
 
 ## 🔥 Current Focus
 

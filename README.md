@@ -1,64 +1,37 @@
-# Hi there, I'm Tushar 👋
+<!-- Lines inside these comment tags are invisible on GitHub. Replace the TODOs, then delete the comments. -->
 
-### Full-Stack Developer | Building Scalable Solutions
+# Hi, I'm Tushar 👋
 
-I'm a passionate developer with expertise in building modern web applications and automation tools. I love solving complex problems and creating efficient, user-friendly solutions.
+**Frontend-focused full-stack engineer** in Indore, India. I build React / Next.js / TypeScript products, from the UI and state management down to the APIs and databases behind them.
 
-## 🚀 Featured Projects
+Right now I'm a Full Stack Developer at **Cubexo**, where I've shipped a real-time booking engine that ended double bookings, a shared component library used across 3 apps, and API optimizations that took key routes from ~600ms to under 420ms. I care about fast interfaces, reusable components and code that the next person can actually read.
 
-### 🔗 [API Scheduler](https://api-scheduler-seven.vercel.app/)
-A powerful API scheduling and management system built with modern web technologies. Features include:
-- Automated API call scheduling and monitoring
-- Real-time status tracking and analytics
-- SEO optimized dashboard with intuitive UI
-- Built with Next.js, React, and modern DevOps practices
+## What I've built
 
-### 📊 Instagram Analyzer
-Advanced Instagram analytics and insights tool that helps users:
-- Track engagement metrics and growth patterns
-- Analyze content performance
-- Generate actionable insights for social media strategy
+### ⏱️ [API Scheduler](https://api-scheduler-seven.vercel.app/) — Schedule and monitor API calls
+Set up recurring API calls and track their status and results from one dashboard.
+`Next.js` `React` <!-- TODO: add the rest of the stack you actually used -->
 
-### 💡 Other Notable Work
-- Building scalable web applications with modern frameworks
-- API development and microservices architecture
-- Database design and optimization
-- CI/CD pipeline implementation
+### 📊 [Instagram Analyzer](https://instagramfolloweranalyzer.vercel.app/)
+Tracks engagement and content performance to show what's working on an account.
+<!-- TODO: add stack tags, and one concrete detail (what data it pulls, a number, a screenshot) -->
 
-## 🛠️ Tech Stack
+## Tech I work with
 
-**Frontend:**
-- React.js / Next.js
-- TypeScript / JavaScript
-- HTML5, CSS3, Tailwind CSS
-- Responsive & Accessible Design
+**Frontend:** React · Next.js · TypeScript · JavaScript · Redux · Vue.js · Tailwind CSS · HTML/CSS
+**Backend:** Node.js · Express · Java · Spring Boot · REST APIs · WebSockets · JWT / RBAC
+**Data:** PostgreSQL · MongoDB · Prisma
+**DevOps:** Docker · GitHub Actions · AWS · Vercel · Firebase
+**AI:** LLM API integration · AI-assisted development (Cursor, Copilot, Claude) <!-- TODO: keep only tools you use -->
 
-**Backend:**
-- Node.js
-- RESTful APIs
-- Database Management (SQL/NoSQL)
-- API Integration & Automation
+## Currently
 
-**Tools & DevOps:**
-- Git & GitHub
-- CI/CD Pipelines
-- Cloud Services
-- Docker
+- 🔨 Shipping product features at Cubexo
+- 📚 Learning Angular and microfrontend architecture (Module Federation) <!-- TODO: keep only if true -->
+- 🧪 Writing more tests: Jest, React Testing Library, Playwright <!-- TODO: keep only if true -->
 
+## Reach me
 
-## 🔥 Current Focus
+[LinkedIn](https://linkedin.com/in/tushrpal) · [Email](mailto:tusrpal@gmail.com)
 
-- Building production-ready applications with modern best practices
-- Exploring advanced API architecture patterns
-- Improving DevOps and automation workflows
-- Contributing to open-source projects
-
-## 📫 Let's Connect
-
-- 💼 Open to collaboration on interesting projects
-- 📧 Reach out for opportunities or just to chat about tech
-- 🌐 Check out my repositories to see what I'm working on
-
----
-
-⭐️ From [tushrpal](https://github.com/tushrpal) | Always learning, always building
+Open to frontend and full-stack roles, and happy to talk about React, performance or AI in products.

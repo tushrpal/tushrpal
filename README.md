@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in building modern web applications an
 
 ## 🚀 Featured Projects
 
-### 🔗 [API Scheduler](https://github.com/tushrpal/api-scheduler)
+### 🔗 [API Scheduler](https://api-scheduler-seven.vercel.app/)
 A powerful API scheduling and management system built with modern web technologies. Features include:
 - Automated API call scheduling and monitoring
 - Real-time status tracking and analytics
